@@ -1,3 +1,0 @@
-race,gender,age,admission_type_id,discharge_disposition_id,admission_source_id,time_in_hospital,num_lab_procedures,num_procedures,num_medications,number_outpatient,number_emergency,number_inpatient,diag_1,diag_2,diag_3,number_diagnoses,max_glu_serum,A1Cresult,metformin,insulin,change,diabetesMed,readmitted
-Caucasian,Male,[70-80),1,1,7,1,41,0,1,0,0,0,250.83,401,276,9,None,None,No,No,No,Yes,NO
-AfricanAmerican,Female,[60-70),3,2,7,2,59,0,18,2,0,1,276,428,250.7,6,None,None,No,Steady,Ch,Yes,<30
