@@ -21,3 +21,8 @@ if st.button("Predict Readmission"):
     prediction = model.predict(input_df)[0]
     result = "Likely to be readmitted" if prediction == 1 else "Unlikely to be readmitted"
     st.success(result)
+
+import os
+
+model_path = os.path.join(os.path.dirname(__file__), 'readmission_model.pkl')
+model = joblib.load(model_path)
