@@ -12,16 +12,12 @@ Predict if a patient will be readmitted within 30 days of discharge using health
 4. Evaluation (ROC AUC, Confusion Matrix)
 5. Deployment (Model Export)
 
-## Folder Structure
-```
-Patient_Readmission_Analysis/
-├── data/           # Raw and cleaned data
-├── notebooks/      # Jupyter notebooks
-├── scripts/        # Python scripts
-├── models/         # Saved models
-├── outputs/        # Plots and reports
-└── README.md       # Project overview
-```
+✅ Outcome:
 
-## Usage
-Run the `readmission_analysis.ipynb` in the `notebooks/` folder for full analysis.
+This project enables healthcare providers to:
+
+Identify high-risk patients.
+Improve post-discharge care plans.
+Reduce hospital penalties due to high readmission rates.
+
+
